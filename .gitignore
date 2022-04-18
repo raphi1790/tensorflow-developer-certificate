@@ -1,2 +1,14 @@
-example_1/dataset/*
-example_1/dataset/
+transfer_learning/dataset/*
+image/dataset/*
+
+image/.idea/inspectionProfiles/
+
+*.jpg
+
+image/.idea/
+
+image/artefacts/
+
+image/dataset/
+
+transfer_learning/artefacts/
